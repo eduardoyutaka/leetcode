@@ -1,10 +1,3 @@
 ## 1161. Maximum Level Sum of a Binary Tree
 
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/embed/HYKUY9ElQLw"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
-/>
+[![LeetCode - 1161. Maximum Level Sum of a Binary Tree](https://i.ytimg.com/vi/HYKUY9ElQLw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDxdvLtKk0JtesOCWd5xe6FM3xi2Q)](https://www.youtube.com/watch?v=HYKUY9ElQLw "LeetCode - 1161. Maximum Level Sum of a Binary Tree")
